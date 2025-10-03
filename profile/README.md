@@ -1,5 +1,3 @@
-# .github
-
 # Active Projects
 
 - Publisher portal

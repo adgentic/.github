@@ -6,4 +6,5 @@
 - Data Enhancement
 - Prompt clasification (Gateway-API)
 - Publisher portal
+- Publisher portal backend (publisher_backend )
 - Shopify App(Shopify-app)
